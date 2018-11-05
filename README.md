@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## This is YouTubeOnTop V1.0
+
+A small youtube-player that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the youtube tab in your browser.
+
+### Cross platform
+
+You can use it with **Windows**, **Linux** or **MacOS**.
+
+| OS      | Link to file                                           |
+| ------- | ------------------------------------------------------ |
+| Windows | [Link](https://github.com/mindactuate/youtubeontop-v1/ |
+
 
 You can use the [editor on GitHub](https://github.com/mindactuate/youtubeontop-v1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
