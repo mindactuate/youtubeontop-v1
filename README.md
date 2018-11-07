@@ -8,14 +8,20 @@ A small youtube-player that will stick in a corner of your screen and stay alway
 
 ### Cross platform
 
-You can use it with **Windows**, **Linux** or **MacOS**.
-
-| OS      | Link to file                                            |
-| ------- | ------------------------------------------------------- |
-| Windows | [Link](https://github.com/mindactuate/youtubeontop-v1/) |
-| Linux   | [Link]()                                                |
+You can use it with **Windows**, **Linux** or **MacOS** (coming soon).
 
 <img src="/_img/linux.png" width=500>
+
+### Download
+
+Download under the following link:
+[https://github.com/mindactuate/youtubeontop-v1/releases](https://github.com/mindactuate/youtubeontop-v1/releases)
+
+### Installation
+
+-   Download one of the zips (win32 is Windows, linux is Linux)
+-   Extract the whole zip to a folder
+-   Start the executable (in Windows its the file YouTubeOnTop.exe)
 
 ### Always on top
 
@@ -28,6 +34,7 @@ You decide in which corner you want to see the window.
 <img src="/_img/positioning.png" width=500>
 
 ### Transparency
+
 (Currently not on Linux)
 
 Adjust the window's transparency to keep on reading but still have control about your youtube player.
@@ -37,14 +44,15 @@ Adjust the window's transparency to keep on reading but still have control about
 ### Fully functionable
 
 All functions, natural youtube.
-* fullsize videos
-* light / dark mode
-* adjustable quality
-* adjustable speed
-* subtitles
-* standard youtube search
-* login and stay logged in
-* ...
+
+-   fullsize videos
+-   light / dark mode
+-   adjustable quality
+-   adjustable speed
+-   subtitles
+-   standard youtube search
+-   login and stay logged in
+-   ...
 
 <img src="/_img/allfunctions.png" width=500>
 
@@ -68,16 +76,16 @@ Lot's of work - even with assistance of great frameworks, libraries and tools. T
 
 ### Tech Stack
 
-* [VS Code](https://code.visualstudio.com/) (as IDE)
-* [Electron.js](https://electronjs.org/) (awesome! I love it!)
-* [Bootstrap](https://getbootstrap.com/) + [popper.js](https://popper.js.org/) + [jQuery](https://jquery.com/) (for the proxy window)
-* [Keytar](https://atom.github.io/node-keytar/) (for saving your proxy settings in the OS' credentials storage safely)
-* [Google's* Dinosaurier Game](https://www.google.com)
-* Some little helpers (via npm)
-    * electron-packager
-    * electron-rebuild
-    * electron-log
-    * electron-reload
-    * get-proxy-settings
+-   [VS Code](https://code.visualstudio.com/) (as IDE)
+-   [Electron.js](https://electronjs.org/) (awesome! I love it!)
+-   [Bootstrap](https://getbootstrap.com/) + [popper.js](https://popper.js.org/) + [jQuery](https://jquery.com/) (for the proxy window)
+-   [Keytar](https://atom.github.io/node-keytar/) (for saving your proxy settings in the OS' credentials storage safely)
+-   [Google's\* Dinosaurier Game](https://www.google.com)
+-   Some little helpers (via npm)
+    -   electron-packager
+    -   electron-rebuild
+    -   electron-log
+    -   electron-reload
+    -   get-proxy-settings
 
 \* Copyright notice for Google's Dinosaurier Game: Copyright (c) 2014 The Chromium Authors. All rights reserved. Use of this source code is governed by a BSD-style license.
