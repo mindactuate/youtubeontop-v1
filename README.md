@@ -25,9 +25,6 @@ You can find all current releases here:
 ### Installation
 
 * Download one of the zips
-   * "..win32.." is Windows
-   * "..linux.." is Linux
-   * MacOS coming soon
 * Extract the whole zip to a folder (Right click -> extract all)
    * use the password *pw1234*
 * On Windows: 
@@ -121,7 +118,12 @@ Lot's of work - even with assistance of great frameworks, libraries and tools. T
 ### FAQ
 
 #### I've got a Network Error info box at program start
-Please stay calm, click "Ok" and just play the Dinosaurier game for a while. Just joking. There is just a network error. Please check your internet connection (use your normal browser and check). If there is internet it might be, that you're behind a proxy server (often in companies). To solve that please right click in YouTubeOnTop and click on *Proxy*. There is lots of guidance for how to find and how to set your proxy. It is easy - I promise. :)
+* Please stay calm, click "Ok" and just play the Dinosaurier game for a while. Just joking. :)
+* There is just a network error.
+    * Please check your internet connection (use your normal browser and check).
+    * If there is internet it might be, that you're behind a proxy server (often in companies).
+    * To solve that please right click in YouTubeOnTop and click on *Proxy*.
+    * There is lots of guidance for how to find and how to set your proxy. It is easy - I promise. :)
 
 #### Where can I download?
 [See here](#download-here)
