@@ -2,7 +2,7 @@
 
 ## This is YouTubeOnTop V1.0 - The first "public" version of the app. :)
 
-A small youtube-player that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the youtube tab in your browser.
+A small desktop player for YouTube that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the YouTube tab in your browser.
 
 ### Download here
 **Password is *pw1234***
