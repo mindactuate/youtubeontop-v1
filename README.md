@@ -18,6 +18,8 @@ I hope you like it. I love the project and I am willing to develop the app furth
 You can find all current releases here:
 [https://github.com/mindactuate/youtubeontop-v1/releases](https://github.com/mindactuate/youtubeontop-v1/releases)
 
+#### [FAQ see below](#faq)
+
 ### Best / fully working on
 * Windows 10
 * Ubuntu 18.04 LTS
@@ -121,8 +123,8 @@ Lot's of work - even with assistance of great frameworks, libraries and tools. T
 * Please stay calm, click "Ok" and just play the Dinosaurier game for a while. Just joking. :)
 * There is just a network error.
     * Please check your internet connection (use your normal browser and check).
-    * If there is internet it might be, that you're behind a proxy server (often in companies).
-    * To solve that please right click in YouTubeOnTop and click on *Proxy*.
+    * If there is internet, it might be, that you're behind a proxy server (often in companies).
+    * To solve that, please right click in YouTubeOnTop and click on *Proxy*.
     * There is lots of guidance for how to find and how to set your proxy. It is easy - I promise. :)
 
 #### Where can I download?
