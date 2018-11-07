@@ -21,8 +21,6 @@ I hope you like the app and that it brings you value. I love the project and am 
 You can find all current releases here:
 [https://github.com/mindactuate/youtubeontop-v1/releases](https://github.com/mindactuate/youtubeontop-v1/releases)
 
-#### [FAQ see below](#faq)
-
 ### Best / fully working on
 
 -   Windows 10
@@ -39,6 +37,8 @@ You can find all current releases here:
     -   in Linux its the file YouTubeOnTop
     -   Right click -> Properties -> Permissions -> Check "Allow executing file as program"
     -   Start the file YouTubeOnTop via double click
+
+### [FAQ see below](#faq)
 
 ### Always on top
 
