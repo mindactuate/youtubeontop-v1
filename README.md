@@ -88,6 +88,7 @@ All functions, native youtube.
 ### Proxy
 
 Set up your [proxy](#what-the-hack-is-a-proxy) settings and keep on watching.
+
 <img src="/_img/offline_1.png" width=400>
 
 <img src="/_img/proxy.png" width=500>
