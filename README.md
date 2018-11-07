@@ -1,48 +1,83 @@
+<img src="/_img/icon_youtubeontop_dark.png" width="128">
+
 ## This is YouTubeOnTop V1.0
 
 A small youtube-player that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the youtube tab in your browser.
+
+<img src="/_img/video_windows.gif">
 
 ### Cross platform
 
 You can use it with **Windows**, **Linux** or **MacOS**.
 
-| OS      | Link to file                                           |
-| ------- | ------------------------------------------------------ |
-| Windows | [Link](https://github.com/mindactuate/youtubeontop-v1/ |
+| OS      | Link to file                                            |
+| ------- | ------------------------------------------------------- |
+| Windows | [Link](https://github.com/mindactuate/youtubeontop-v1/) |
+| Linux   | [Link]()                                                |
 
+<img src="/_img/linux.png" width=500>
 
-You can use the [editor on GitHub](https://github.com/mindactuate/youtubeontop-v1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Always on top
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The window stays always on top. :)
 
-### Markdown
+### Stick in the corner
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You decide in which corner you want to see the window.
 
-```markdown
-Syntax highlighted code block
+<img src="/_img/positioning.png" width=500>
 
-# Header 1
-## Header 2
-### Header 3
+### Transparency
+(Currently not on Linux)
 
-- Bulleted
-- List
+Adjust the window's transparency to keep on reading but still have control about your youtube player.
 
-1. Numbered
-2. List
+<img src="/_img/transparency.png" width=500>
 
-**Bold** and _Italic_ and `Code` text
+### Fully functionable
 
-[Link](url) and ![Image](src)
-```
+All functions, natural youtube.
+* fullsize videos
+* light / dark mode
+* adjustable quality
+* adjustable speed
+* subtitles
+* standard youtube search
+* login and stay logged in
+* ...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="/_img/allfunctions.png" width=500>
 
-### Jekyll Themes
+### Proxy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mindactuate/youtubeontop-v1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Set up your proxy settings and keep on watching.
 
-### Support or Contact
+<img src="/_img/proxy.png" width=500>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Funny offline mode
+
+Offline? Like in the stone age, hm? Google's popular Dinosaurier game integrated in this app. :)
+
+<img src="/_img/offline.png" width=500>
+
+### A dollar is all I need :)
+
+Lot's of work - even with assistance of great frameworks, libraries and tools. The app costs a small amount of 1€. But still free testing allowed - unlimited.
+
+[<img src="/_img/icon_donate.png" width=128>](https://www.paypal.me/mindactuate)
+
+### Tech Stack
+
+* [VS Code](https://code.visualstudio.com/) (as IDE)
+* [Electron.js](https://electronjs.org/) (awesome! I love it!)
+* [Bootstrap](https://getbootstrap.com/) + [popper.js](https://popper.js.org/) + [jQuery](https://jquery.com/) (for the proxy window)
+* [Keytar](https://atom.github.io/node-keytar/) (for saving your proxy settings in the OS' credentials storage safely)
+* [Google's* Dinosaurier Game](https://www.google.com)
+* Some little helpers (via npm)
+    * electron-packager
+    * electron-rebuild
+    * electron-log
+    * electron-reload
+    * get-proxy-settings
+
+\* Copyright notice for Google's Dinosaurier Game: Copyright (c) 2014 The Chromium Authors. All rights reserved. Use of this source code is governed by a BSD-style license.
