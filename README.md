@@ -19,9 +19,12 @@ Download under the following link:
 
 ### Installation
 
--   Download one of the zips (win32 is Windows, linux is Linux)
--   Extract the whole zip to a folder
--   Start the executable (in Windows its the file YouTubeOnTop.exe)
+* Download one of the zips
+   * "..win32.." is Windows
+   * "..linux.." is Linux
+   * MacOS coming soon
+* Extract the whole zip to a folder (Right click -> extract all)
+* Start the executable (in Windows its the file YouTubeOnTop.exe)
 
 ### Always on top
 
