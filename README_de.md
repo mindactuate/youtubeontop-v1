@@ -10,8 +10,8 @@ Ein kleiner Desktop-Player für YouTube, der in einer Ecke des Bildschirms "kleb
 
 **Passwort: _pw1234_**
 
--   [Windows](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-win32-x64.zip)
--   [Linux](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-linux-x64.zip)
+-   [Windows](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0.1/YouTubeOnTop-win32-x64.zip)
+-   [Linux](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0.1/YouTubeOnTop-linux-x64.zip)
 -   MacOS: erscheint demnächst
 
 Ich hoffe, dass dir die App gefällt und etwas bringt. Ich liebe das Projekt und bin bereit, die App weiterzuentwickeln. (Neben anderen Projekten.)
