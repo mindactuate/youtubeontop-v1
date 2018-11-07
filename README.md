@@ -71,11 +71,12 @@ Offline? Like in the stone age, hm? Google's popular Dinosaurier game integrated
 
 <img src="/_img/offline.png" width=500>
 
-### A dollar is all I need :)
+### One Euro is all I need :)
 
 Lot's of work - even with assistance of great frameworks, libraries and tools. The app costs a small amount of 1€. But still free testing allowed - unlimited.
 
 [<img src="/_img/icon_donate.png" width=128>](https://www.paypal.me/mindactuate)
+(click me)
 
 ### Tech Stack
 
