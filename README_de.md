@@ -88,6 +88,7 @@ Alle Funktionen, natives YouTube
 ### Proxy
 
 Stelle deine [Proxy](#was-zum-teufel-ist-ein-proxy) Einstellungen ein und weiter geht´s.
+
 <img src="/_img/offline_1.png" width=400>
 
 <img src="/_img/proxy.png" width=500>
