@@ -88,6 +88,7 @@ Alle Funktionen, natives YouTube
 ### Proxy
 
 Stelle deine [Proxy](#was-zum-teufel-ist-ein-proxy) Einstellungen ein und weiter geht´s.
+<img src="/_img/offline_1.png" width=400>
 
 <img src="/_img/proxy.png" width=500>
 
@@ -95,7 +96,7 @@ Stelle deine [Proxy](#was-zum-teufel-ist-ein-proxy) Einstellungen ein und weiter
 
 Ohne Internet? Wie in der Jurazeit, oder? Google's berühmtes Dinosaurier Spiel ist in dieser Desktop App integriert und bringt dich durch internet-lose Zeiten. :)
 
-<img src="/_img/offline.png" width=500>
+<img src="/_img/offline_2.png" width=500>
 
 ### One Euro is all I need :)
 

@@ -88,6 +88,7 @@ All functions, native youtube.
 ### Proxy
 
 Set up your [proxy](#what-the-hack-is-a-proxy) settings and keep on watching.
+<img src="/_img/offline_1.png" width=400>
 
 <img src="/_img/proxy.png" width=500>
 
@@ -95,7 +96,7 @@ Set up your [proxy](#what-the-hack-is-a-proxy) settings and keep on watching.
 
 Without Internet? It's like the Jurassic period, isn't it? Google's famous dinosaur game is integrated into this desktop app and takes you through internet-less times. :)
 
-<img src="/_img/offline.png" width=500>
+<img src="/_img/offline_2.png" width=500>
 
 ### One Euro is all I need :)
 
