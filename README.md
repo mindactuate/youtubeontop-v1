@@ -10,8 +10,8 @@ A small desktop player for YouTube that will stick in a corner of your screen an
 
 **Password is _pw1234_**
 
--   [Windows](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-win32-x64.zip)
--   [Linux](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-linux-x64.zip)
+-   [Windows](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0.1/YouTubeOnTop-win32-x64.zip)
+-   [Linux](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0.1/YouTubeOnTop-linux-x64.zip)
 -   MacOS: coming soon
 
 I hope you like the app and that it brings you value. I love the project and am willing to develop the app further. (Among other projects.)
