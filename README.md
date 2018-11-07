@@ -85,6 +85,7 @@ Lot's of work - even with assistance of great frameworks, libraries and tools. T
 -   [Bootstrap](https://getbootstrap.com/) + [popper.js](https://popper.js.org/) + [jQuery](https://jquery.com/) (for the proxy window)
 -   [Keytar](https://atom.github.io/node-keytar/) (for saving your proxy settings in the OS' credentials storage safely)
 -   [Google's\* Dinosaurier Game](https://www.google.com)
+-   [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) (for all the icons)
 -   Some little helpers (via npm)
     -   electron-packager
     -   electron-rebuild
