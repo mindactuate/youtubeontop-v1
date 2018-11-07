@@ -4,8 +4,9 @@
 
 A small youtube-player that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the youtube tab in your browser.
 
-### Download here. Password is *pw1234*
-[](#download)
+### Download here
+**Password is *pw1234***
+
 * [Windows](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-win32-x64.zip)
 * [Linux](https://github.com/mindactuate/youtubeontop-v1/releases/download/V1.0/YouTubeOnTop-linux-x64.zip)
 * MacOS: coming soon
@@ -13,6 +14,7 @@ A small youtube-player that will stick in a corner of your screen and stay alway
 I hope you like it. I love the project and I am willing to develop the app further. (Besides other projects.)
 
 #### Current releases
+
 You can find all current releases here:
 [https://github.com/mindactuate/youtubeontop-v1/releases](https://github.com/mindactuate/youtubeontop-v1/releases)
 
@@ -21,7 +23,7 @@ You can find all current releases here:
 * Ubuntu 18.04 LTS
 
 ### Installation
-[](#installation)
+
 * Download one of the zips
    * "..win32.." is Windows
    * "..linux.." is Linux
@@ -118,12 +120,12 @@ Lot's of work - even with assistance of great frameworks, libraries and tools. T
 
 ### FAQ
 
-## I've got a Network Error info box at program start
+#### I've got a Network Error info box at program start
 Please stay calm, click "Ok" and just play the Dinosaurier game for a while. Just joking. There is just a network error. Please check your internet connection (use your normal browser and check). If there is internet it might be, that you're behind a proxy server (often in companies). To solve that please right click in YouTubeOnTop and click on *Proxy*. There is lots of guidance for how to find and how to set your proxy. It is easy - I promise. :)
 
-## Where can I download?
-[See here](#download)
+#### Where can I download?
+[See here](#download-here)
 
-# How can I install?
+#### How can I install?
 [See here](#installation)
 
