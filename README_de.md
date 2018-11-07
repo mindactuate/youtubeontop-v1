@@ -145,3 +145,13 @@ Die App war seeehr viel Arbeit - trotz der Unterstützung von tollen Frameworks,
 Wenn du dich mit dem Internet verbindest, musst du manchmal einen Proxy-Server verwenden - ein Computersystem, das sich zwischen dir und dem Internet befindet. Proxies sind an Schulen, Hochschulen und Arbeitsplätzen üblich und können den Zugang zum Internet einschränken und kontrollieren. ([Textquelle](https://www.dummies.com/social-media/spotify/spotify-and-proxy-servers/))
 
 Wenn deine Internetverbindung einen Proxy erfordert, musst du die entsprechenden Angaben im Fenster Proxy-Einstellungen vornehmen (Rechtsklick auf das YouTubeOnTop-Symbol <img src="/_img/icon_youtubeontop_dark.png" width="16"> im Taskleistenbereich oder Rechtsklick im YouTubeOnTop Hauptfenster). Innerhalb des Fensters _Proxy-Einstellungen_ gibt es viele Anleitungen, die dir helfen können, die entsprechenden Daten herauszufinden. Wenn das nicht hilft, frage doch einfach mal die IT-Abteilung deiner Schule oder deines Arbeitsplatzes oder deinen Internet Service Provider Helpdesk nach den Zugangsdaten.
+
+#### Darfst du das Google Dinosaurierspiel benutzen?
+
+Ich habe großen Respekt vor all den großartigen Entwicklern und Designern da draußen auf der Welt. Dazu gehören natürlich auch die Chromium Autoren, die das Google Dinosaurierspiel entwickelt und gestaltet haben.
+
+Hier findest du eine zusätzliche Datei mit den meisten [LIZENZEN](/LIZENZEN.md).
+
+**Ich möchte allen großen Schöpfern da draußen danken.**
+
+**Ich bin ein Zwerg, der auf den Schultern von Riesen steht.**

@@ -110,8 +110,10 @@ The app was a lot of work - despite the support of great frameworks, libraries a
 -   [Electron.js](https://electronjs.org/) (awesome! I love it!)
 -   [Bootstrap](https://getbootstrap.com/) + [popper.js](https://popper.js.org/) + [jQuery](https://jquery.com/) (for the proxy window)
 -   [Keytar](https://atom.github.io/node-keytar/) (for saving your proxy settings in the OS' credentials storage safely)
--   [Google's Dinosaurier Game](https://www.google.com)
+-   [Google's Dinosaur Game](https://www.chromium.org/Home)
 -   [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) (for all the icons)
+-   [Github](github.com)
+-   [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 -   Some little helpers (via npm)
     -   electron-packager
     -   electron-rebuild
@@ -143,3 +145,13 @@ The app was a lot of work - despite the support of great frameworks, libraries a
 When you connect to the Internet, you may sometimes need to go through a proxy server — a computer system that sits between you and the Internet. Proxies are commonplace in schools, colleges, and workplaces and can limit and control access to the Internet. ([Text source](https://www.dummies.com/social-media/spotify/spotify-and-proxy-servers/))
 
 If your Internet connection requires a proxy, you need to enter the details in the proxy settings window (right click on the YouTubeOnTop icon <img src="/_img/icon_youtubeontop_dark.png" width="16"> in the tray or right click in the YouTubeOnTop main window). Within the proxy settings window there is lot's of guidance to help you to find out your proxy settings. If that does not help, ask your school or workplace’s IT department, or your Internet Service Provider helpdesk, for the credentials.
+
+#### Are you allowed to use the Google Dinosaur Game?
+
+I have huge respect for all the awesome developers and designers out there in the world. For sure that includes also the chromium authors who developed and designed the Google Dinosaur Game.
+
+You find an extra file with all the [LICENSES](/LICENSES.md).
+
+**I want to thank all the great creators out there.**
+
+**I am a dwarf standing on the shoulders of giants.**
