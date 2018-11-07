@@ -1,4 +1,4 @@
-[English](/README.md) || [Deutsch](/README_de.md)
+[Deutsch](/README_de.md) || [English](/README.md)
 
 <img src="/_img/icon_youtubeontop_dark.png" width="128">
 
