@@ -8,17 +8,20 @@ A small youtube-player that will stick in a corner of your screen and stay alway
 
 ### Download
 
-[**Download here**](https://github.com/mindactuate/youtubeontop-v1/releases)
+[Download here](https://github.com/mindactuate/youtubeontop-v1/releases)
 
-Password is *pw1234*
+Password is _pw1234_
 
-* Windows: *YouTubeOnTop-win32-x64.zip*
-   * Best on Windows 10* 
-* Linux: *YouTubeOnTop-linux-x64.zip*
-   * Best on Ubuntu 18.04 LTS* 
-* MacOS: *coming soon*
+-   **Windows:** _YouTubeOnTop-win32-x64.zip_
+-   **Linux:** _YouTubeOnTop-linux-x64.zip_
+-   **MacOS:** _erscheint demnächst_
 
 I hope you like it. I love the project and I am willing to develop the app further. (Besides other projects.)
+
+#### Best on
+
+-   Windows 10
+-   Ubuntu 18.04 LTS
 
 #### Current releases
 
@@ -155,7 +158,8 @@ You find an extra file with all the [LICENSES](/LICENSES.md).
 
 **I want to thank all the great creators out there.**
 
-*I am a dwarf standing on the shoulders of giants.*
+_I am a dwarf standing on the shoulders of giants._
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1MDEzNjc4NzMsLTg1NzQ5NzI2M119
 -->
