@@ -9,6 +9,7 @@ A small youtube-player that will stick in a corner of your screen and stay alway
 ### Download
 
 [**Download here**](https://github.com/mindactuate/youtubeontop-v1/releases)
+
 Password is *pw1234*
 
 * Windows: *YouTubeOnTop-win32-x64.zip*
@@ -156,5 +157,5 @@ You find an extra file with all the [LICENSES](/LICENSES.md).
 
 *I am a dwarf standing on the shoulders of giants.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzQ5NzI2M119
+eyJoaXN0b3J5IjpbLTE1MDEzNjc4NzMsLTg1NzQ5NzI2M119
 -->
