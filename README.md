@@ -2,6 +2,12 @@
 
 <img src="/_img/icon_youtubeontop_dark.png" width="128">
 
+# Outdated: Unfortunately I do not have the time to continue the development of this tool.
+
+But for Chrome users there is a nice tool out there: [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
+
+Perhaps there are extensions for the other browsers out there, but the mentioned one works like a charm.
+
 ## This is YouTubeOnTop V1.0 - The first "public" version of the app. :)
 
 A small youtube-player that will stick in a corner of your screen and stay always on top of all other windows. Focus on your work and not on searching for the youtube tab in your browser.
