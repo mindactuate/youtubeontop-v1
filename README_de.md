@@ -2,6 +2,12 @@
 
 <img src="/_img/icon_youtubeontop_dark.png" width="128">
 
+# Veraltet: Leider komme ich nicht mehr dazu, das Tool weiterzuentwickeln.
+
+Für Google Chrome gibt es ein interessantes Tool da draußen: [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
+
+Eventuell gibt es für die anderen Browser auch solche Plugins. Das erwähnte ist aber auf jeden Fall super!
+
 ## YouTubeOnTop V1.0 - Die erste "veröffentlichte" Version der App. :)
 
 Ein kleiner Desktop-Player für YouTube, der in einer Ecke des Bildschirms "klebt" und immer über allen anderen Fenstern bleibt. Somit kannst du dich voll auf deine eigentlichen Aufgaben konzentrieren und nicht auf die nervenaufreibende Suche nach deinem YouTube Browser Tab.
